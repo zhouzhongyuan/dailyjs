@@ -6,3 +6,5 @@ auto:        false
 exclude:
   - bin
   - README.textile
+
+theme: jekyll-theme-cayman
